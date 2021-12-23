@@ -78,18 +78,18 @@
   email: claudia.v.brito@inesctec.pt
   number_educ: 0
 
-- name: <a href="">Daniel Cruz</a>
-  photo: daniel.jpg
-  info: Researcher
-  email: daniel.c.cruz@inesctec.pt
+- name: <a href="https://www.inesctec.pt/en/people/luis-manuel-ferreira">Luís Ferreira</a>
+  photo: meruje.jpg
+  info: PhD Student
+  email: luis.m.ferreira@inesctec.pt
   git: 
   ldin: 
   number_educ: 0
 
-- name: <a href="https://www.inesctec.pt/en/people/luis-manuel-ferreira">Luís Ferreira</a>
-  photo: meruje.jpg
-  info: MSc Student
-  email: luis.m.ferreira@inesctec.pt
+- name: <a href="">José Silva</a>
+  photo: nophoto.jpg
+  info: Researcher
+  email:
   git: 
   ldin: 
   number_educ: 0

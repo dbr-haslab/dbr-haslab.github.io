@@ -1,5 +1,19 @@
+- year: 2021
+  list:
+    - title: "Automatic Configuration of Secure Databases"
+      authors: Ferreira D, Paulo J, Matos M
+      where: "European Dependable Computing Conference (EDCC)"
+    - title: "Soteria: Privacy-Preserving Machine Learning for Apache Spark"
+      authors: Brito C, Ferreira P, Portela B, Oliveira R, Paulo J
+      where: "Cryptology ePrint Archive, Report 2021/966"
+    - title: "Geolocate: A geolocation-aware scheduling system for Edge Computing"
+      authors: Vilaça J, Paulo J, Vilaça R
+      where: "Workshop on High-Performance and Reliable Big Data (HPBD), colocated with SRDS. Available <a href="https://dsr-haslab.github.io/repository/vpv21.pdf">here</a>"
 - year: 2020
   list:
+    - title: "On the trade-offs of combining multiple secureprocessing primitives for data analytics"
+      authors: Carvalho H, Cruz D, Pontes R; Paulo J, Oliveira R
+      where: "Distributed Applications and Interoperable Systems International Conference"
     - title: "Black-box inter-application traffic monitoring for adaptive container placement"
       authors: Neves F, Vilaça R, Pereira J
       where: "Proceedings of the ACM Symposium on Applied Computing"
