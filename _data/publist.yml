@@ -17,7 +17,7 @@
       where: "Cryptology ePrint Archive, Report 2021/966"
     - title: "Geolocate: A geolocation-aware scheduling system for Edge Computing"
       authors: Vilaça J, Paulo J, Vilaça R
-      where: "Workshop on High-Performance and Reliable Big Data (HPBD), colocated with SRDS. Available <a href="https://dsr-haslab.github.io/repository/vpv21.pdf">here</a>"
+      where: "Workshop on High-Performance and Reliable Big Data (HPBD), colocated with SRDS."
     - title: "Towards Generic Fine-Grained Transaction Isolation in Polystores"
       authors:  Faria N., Pereira J., Nunes A., Vilaça R.,
       where: "The polystore systems for heterogeneous data in multiple databases with privacy and security assurances (Poly 2021) co-located with 47th International Conference on Very Large Data Bases {(VLDB} 2021)"
