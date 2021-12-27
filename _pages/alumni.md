@@ -11,6 +11,9 @@ permalink: /alumni.html
 This page showcases previous students that completed thesis related with our research topics.
 
 ### MSc Thesis
+- Rui Souto, Query Optimizers Based on Machine Learning Techniques, 2021,  Now at [TalkDesk](https://www.talkdesk.com/)
+- Luis Meruje, Automatic Parameter Tuning Using Reinforcement Learning, 2020
+- Nuno Faria, High performance data processing, 2020
 - Hugo Alves Carvalho, SafeSpark: Processamento Analítico de Dados Seguro, 2019, Now at [Bosch](https://www.bosch.pt)
 - Hugo Abreu, High Availability Architecture for Cloud Based Databases, 2019, Now at [Feedzai](https://www.feedzai.com)
 - Diogo Couto, Aplicações web com requisitos de armazenamento e processamento privados, 2018, Now at [Keyruptive](https://www.keyruptive.com)
@@ -37,6 +40,8 @@ This page showcases previous students that completed thesis related with our res
 ---
 
 ### PhD Thesis
+ - Francisco Neves, Francisco Neves, Holistic performance and scalability analysis for large scale distributed systems, 2021, Now at [Nutrium](https://nutrium.com/)
+ - Rogério Pontes, Secure multi party Computation Trade-offs in distributed Databases, 2020, Now at [AutoScout24](https://www.autoscout24.de)
  - Ricardo Gonçalves, Multi-Value Distributed Key-Value Stores, 2018, Now at [UpHold](https://www.uphold.com)
  - Fábio Coelho, Towards a Transactional and Analytical Data Management System for Big Data, 2018
  - Ana Nunes Alonso, Database Replication for Enterprise Applications, 2017
@@ -52,7 +57,7 @@ This page showcases previous students that completed thesis related with our res
 
 ---
 ### Post-Docs
- - Nuno Machado, Now at [Teradata](https://www.teradata.com/)
- - Rui Gonçalves, [LeanXcale](https://www.leanxcale.com/), Now at [Gruppon](www.grupon.de)
+ - Nuno Machado, Now at [Amazon](https://amazon.com/)
+ - Rui Gonçalves, Now at [Zalando](https://www.zalando.com/)
 
 ---

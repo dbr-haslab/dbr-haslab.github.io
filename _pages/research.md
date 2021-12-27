@@ -5,7 +5,7 @@ sitemap: false
 permalink: /research/
 ---
 
-Our research is currently divided in three main topics:
+Our research is currently divided in four main topics:
 
 ### Database Dependability
 
@@ -25,8 +25,7 @@ In the [Stratus](/projects/stratus) project we research on the trade-off of earl
 Data management is moving from traditional relational and transactional database management systems (i.e., SQL) to a variety of systems that address different aspects of big data challenges (i.e., NoSQL). The gap between both systems makes it harder to develop and operate new applications, and forces developers to cope with multiple tools in a single application. In the  [CumuloNimbo](/projects/cn), [CoherentPaaS](/projects/cpaas) and [LeanBigData](/projects/lbd) research projects we had been researching on bridging the gap between SQL and NoSQL technologies without compromising scalability or flexibility.
 In CumuloNimbo’s we designed and developed the query engine layer that is responsible for taking an SQL query and generating an efficient execution plan for the query, to be executed over the NoSQL storage layer. In CoherentPaaS we had research on data lakes support in SQL query engines to ingest data from external stores, such as Hadoop files, MongoDB, Neo4J, and data generated from or transformed with embedded scripting languages. In LeanBigData we defined novel strategies for parallel Hybrid transaction/analytical processing (HTAP) engines for real time analytical queries, enabling several workers to split and share query execution. More recently, we had research on extending this parallel engine for the parallel execution of analytical window functions queries.  In order to commercially explore key results of those three projects, in 2015 the [LeanXcale](https://www.leanxcale.com/) startup was born with former and current members of this team. In [RADicalize](/projects/radicalize) we are leveraging polyglot research done in the [CoherentPaaS](/projects/cpaas) project in order to enable developers using a low code platform to interact with different NoSQL data sources through the platform's unified visual query model.
 
-Jointly with IBM Research Zurich, in the [Accelerated Object Stores](/projects/ibmaos) we are working on the
- design of a middleware system that is able to efficiently handle data from document-based repositories for real-time processing.
+Jointly with IBM Research Zurich, in the [Accelerated Object Stores](/projects/ibmaos) we worked on the design of a middleware system that is able to efficiently handle data from document-based repositories for real-time processing.
 
 ### Secure Data Processing
 
@@ -35,3 +34,11 @@ The work on secure data processing aims at building practical database systems t
 In the context of the [SafeCloud](/projects/safecloud) project we had work on a secure and resilient Cloud architecture, and particularly providing different database solutions that provide private data storage and processing while being practical and usable in real-world deployments. This solution comprehends a generic NoSQL framework [SafeNoSQL](/tools/safenosql), together with a set of libraries supporting data processing cryptographic techniques.  In order to commercially explore key results of the project, in 2017 the [SafeCloud Technologies Sàrl](https://safecloudtech.com/), a spin-off of INESC TEC, was born with former and current members of this team.
 
 We are also researching on scalable database design, exporting an ansi-SQL interface, that contemplates novel database systems for analytical and web-based query processing that leverage multiple cryptographic primitives and the Intel SGX platform to enable privacy-aware processing.
+
+### Edge and Cloud Continuum
+
+The advent of 5G networks and growing adoption of Internet of Things (IoT) devices lead to more opportunities for data collection and processing with hybrid edge-cloud systems.
+
+In this architecture, edge devices -- placed near where the data is being collected/accessed -- execute some of the processing while offloading other more complex work to the cloud, which is scalable on demand. However, edge-cloud architectures present several challenges when it comes to data management. Most of the difficulties are due to their inherently large-scale, distributed, and heterogeneous deployments, namely: Replicating stateful (edge or otherwise) components for scalability requires synchronization, which can be expensive and makes fault tolerance more complex; large-scale data replication between the edge and the cloud raises issues in terms of network latency and storage capacity; and the heterogeneity of edge devices, namely in the context of IoT, encounters a very diverse set of data models, which requires data processing frameworks to handle each one on a case-by-case approach.
+
+In the context of the [AIDA](/projects/aida) we are modifying RAID, [Mobileum](https://www.mobileum.com/) end-to-end real-time data management platform handling the entire risk management lifecycle of enterprises, to scale-out to unprecedented levels and provide privacy and confidentiality guarantees.

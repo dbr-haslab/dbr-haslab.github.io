@@ -1,3 +1,12 @@
+- year: 2022
+  list:
+    - title: "Adaptive Database Synchronization for an Online Analytical Cloud-to-Edge Continuum"
+      authors: Costa D, Pereira J., Vilaça R., Faria N.
+      where: "37th Annual ACM Symposium on Applied Computing"
+    - title: "AIDA-DB: A Data Management Architecture for the Edge and Cloud Continuum"
+      authors: Faria N., Costa D, Pereira J., Vilaça R., Ferreira L., Coelho F.
+      where: "The 1st International Workshop on  Secure FunctiON ChAining and FederaTed AI - SONATAI 2022 co-located with IEEE 19th Annual Consumer Communications  Networking Conference (CCNC)"
+
 - year: 2021
   list:
     - title: "Automatic Configuration of Secure Databases"
@@ -9,14 +18,40 @@
     - title: "Geolocate: A geolocation-aware scheduling system for Edge Computing"
       authors: Vilaça J, Paulo J, Vilaça R
       where: "Workshop on High-Performance and Reliable Big Data (HPBD), colocated with SRDS. Available <a href="https://dsr-haslab.github.io/repository/vpv21.pdf">here</a>"
+    - title: "Towards Generic Fine-Grained Transaction Isolation in Polystores"
+      authors:  Faria N., Pereira J., Nunes A., Vilaça R.,
+      where: "The polystore systems for heterogeneous data in multiple databases with privacy and security assurances (Poly 2021) co-located with 47th International Conference on Very Large Data Bases {(VLDB} 2021)"
+    - title: "Detailed Black-Box Monitoring of Distributed System"
+      authors: Neves F., Vilaça R., Pereira, J.
+      where: "SIGAPP Appl. Comput. Rev."
+    - title: "Horus: Non-Intrusive Causal Analysis of Distributed Systems Logs"
+      authors: Neves F., Machado N., Vilaça R., Pereira, J.
+      where: "2021 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)"
+    - title: "CODBS: A cascading oblivious search protocol optimized for real-world relational database indexes"
+      authors: Pontes R., Portela B., Barbosa M., Vilaça R.
+      where: "40th Symposium on Reliable Distributed Systems, {SRDS} 2021"
+    - title: "Totally-Ordered Prefix Parallel Snapshot Isolation"
+      authors: Faria N., Pereira J.
+      where: "8th Workshop on Principles and Practice of Consistency for Distributed Data"  
+
 - year: 2020
   list:
-    - title: "On the trade-offs of combining multiple secureprocessing primitives for data analytics"
+    - title: "On the trade-offs of combining multiple secure processing primitives for data analytics"
       authors: Carvalho H, Cruz D, Pontes R; Paulo J, Oliveira R
       where: "Distributed Applications and Interoperable Systems International Conference"
     - title: "Black-box inter-application traffic monitoring for adaptive container placement"
       authors: Neves F, Vilaça R, Pereira J
       where: "Proceedings of the ACM Symposium on Applied Computing"
+    - title: "Self-tunable DBMS Replication with Reinforcement Learning"
+      authors: Ferreira L., Coelho F., Pereira J.
+      where: "IFIP International Conference on Distributed Applications and Interoperable Systems" 
+    - title: Building a Polyglot Data Access Layer for a Low-Code Application Development Platform
+      authors: Santos L., Soares T., Pereira J.
+      where: IFIP International Conference on Distributed Applications and Interoperable Systems
+    - title: "Decentralized privacy-preserving proximity tracing"
+      authors: Troncoso C., Payer M., Hubaux J., Salathé M., Larus J., Bugnion E.,Lueks W., Stadler T., Pyrgelis A., Antonioli D., Barman L., Chatel S., Paterson K., Čapkun S., Basin D., Beutel J., Jackson D., Roeschlin M., Leu P., Preneel B., Smart N., Abidin A., Gürses S., Veale M.,Cremers C., Backes M., Tippenhauer N., Binns R., Cattuto C., Barrat A., Fiore D., Barbosa M., Oliveira R., Pereira J.
+      where: "arXiv preprint arXiv:2005.12273"
+
 - year: 2019
   list:
     - title: "MINION: Large-Scale Distributed Systems Testing Made Practical"
@@ -35,7 +70,7 @@
       authors: Abreu H, Ferreira L, Coelho F, Alosno A, Pereira J
       where:  "Proceedings of the 8th International Conference on Data Science, Technology and Applications"
     - title: "Towards Intra-Datacentre High-Availability in CloudDBAppliance"
-      authors: Ferreira L, Coelho F, Alosno A, Pereira J
+      authors: Ferreira L, Coelho F, Alonso A, Pereira J
       where:  "Proceedings of the 8th International Conference on Data Science, Technology and Applications"
 
 - year: 2018

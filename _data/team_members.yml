@@ -94,6 +94,22 @@
   ldin: 
   number_educ: 0
 
+- name: <a href="">Nuno Faria</a>
+  photo: nophoto.jpg
+  info: Researcher
+  email: nuno.f.faria@inesctec.pt
+  git: 
+  ldin: 
+  number_educ: 0
+
+- name: <a href="">Daniel Costa</a>
+  photo: nophoto.jpg
+  info: Researcher
+  email: daniel.v.costa@inesctec.pt
+  git: 
+  ldin: 
+  number_educ: 0
+
 - name: <a href="https://www.inesctec.pt/pt/pessoas/paula-cristina-rodrigues">Paula Rodrigues</a>
   photo: paula.jpg
   info: Communication and Dissemination
