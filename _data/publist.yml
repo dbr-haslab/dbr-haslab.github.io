@@ -1,160 +1,409 @@
-- year: 2022
-  list:
-    - title: "Adaptive Database Synchronization for an Online Analytical Cloud-to-Edge Continuum"
-      authors: Costa D, Pereira J., Vilaça R., Faria N.
-      where: "37th Annual ACM Symposium on Applied Computing"
-    - title: "AIDA-DB: A Data Management Architecture for the Edge and Cloud Continuum"
-      authors: Faria N., Costa D, Pereira J., Vilaça R., Ferreira L., Coelho F.
-      where: "The 1st International Workshop on  Secure FunctiON ChAining and FederaTed AI - SONATAI 2022 co-located with IEEE 19th Annual Consumer Communications  Networking Conference (CCNC)"
+- title: "When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"
+  authors: Ramos M, Azevedo J, Kingsbury K, Pereira J, Esteves T, Macedo R & Paulo J
+  where: PVLDB
+  year: 2024
+  key: ramos2024amnesia
+  domains:
+    - dbsys
+  highlight: 1
+  link:
+    url: https://doi.org/10.14778/3681954.3681980
+#   slides: /assets/files/2024/lazyfs-vldb24-mariaramos-presentation.pdf
+    git: https://github.com/dsrhaslab/lazyfs
 
-- year: 2021
-  list:
-    - title: "Automatic Configuration of Secure Databases"
-      authors: Ferreira D, Paulo J, Matos M
-      where: "European Dependable Computing Conference (EDCC)"
-    - title: "Soteria: Privacy-Preserving Machine Learning for Apache Spark"
-      authors: Brito C, Ferreira P, Portela B, Oliveira R, Paulo J
-      where: "Cryptology ePrint Archive, Report 2021/966"
-    - title: "Geolocate: A geolocation-aware scheduling system for Edge Computing"
-      authors: Vilaça J, Paulo J, Vilaça R
-      where: "Workshop on High-Performance and Reliable Big Data (HPBD), colocated with SRDS."
-    - title: "Towards Generic Fine-Grained Transaction Isolation in Polystores"
-      authors:  Faria N., Pereira J., Nunes A., Vilaça R.,
-      where: "The polystore systems for heterogeneous data in multiple databases with privacy and security assurances (Poly 2021) co-located with 47th International Conference on Very Large Data Bases {(VLDB} 2021)"
-    - title: "Detailed Black-Box Monitoring of Distributed System"
-      authors: Neves F., Vilaça R., Pereira, J.
-      where: "SIGAPP Appl. Comput. Rev."
-    - title: "Horus: Non-Intrusive Causal Analysis of Distributed Systems Logs"
-      authors: Neves F., Machado N., Vilaça R., Pereira, J.
-      where: "2021 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)"
-    - title: "CODBS: A cascading oblivious search protocol optimized for real-world relational database indexes"
-      authors: Pontes R., Portela B., Barbosa M., Vilaça R.
-      where: "40th Symposium on Reliable Distributed Systems, {SRDS} 2021"
-    - title: "Totally-Ordered Prefix Parallel Snapshot Isolation"
-      authors: Faria N., Pereira J.
-      where: "8th Workshop on Principles and Practice of Consistency for Distributed Data"  
+- authors: Ferreira, L. and Coelho, F. and Pereira, J.
+  title: "Databases in Edge and Fog Environments: A Survey"
+  year: 2024
+  where: ACM Comput. Surv.
+  key: fcp24
+  domains:
+    - dbsys
 
-- year: 2020
-  list:
-    - title: "On the trade-offs of combining multiple secure processing primitives for data analytics"
-      authors: Carvalho H, Cruz D, Pontes R; Paulo J, Oliveira R
-      where: "Distributed Applications and Interoperable Systems International Conference"
-    - title: "Black-box inter-application traffic monitoring for adaptive container placement"
-      authors: Neves F, Vilaça R, Pereira J
-      where: "Proceedings of the ACM Symposium on Applied Computing"
-    - title: "Self-tunable DBMS Replication with Reinforcement Learning"
-      authors: Ferreira L., Coelho F., Pereira J.
-      where: "IFIP International Conference on Distributed Applications and Interoperable Systems" 
-    - title: Building a Polyglot Data Access Layer for a Low-Code Application Development Platform
-      authors: Santos L., Soares T., Pereira J.
-      where: IFIP International Conference on Distributed Applications and Interoperable Systems
-    - title: "Decentralized privacy-preserving proximity tracing"
-      authors: Troncoso C., Payer M., Hubaux J., Salathé M., Larus J., Bugnion E.,Lueks W., Stadler T., Pyrgelis A., Antonioli D., Barman L., Chatel S., Paterson K., Čapkun S., Basin D., Beutel J., Jackson D., Roeschlin M., Leu P., Preneel B., Smart N., Abidin A., Gürses S., Veale M.,Cremers C., Backes M., Tippenhauer N., Binns R., Cattuto C., Barrat A., Fiore D., Barbosa M., Oliveira R., Pereira J.
-      where: "arXiv preprint arXiv:2005.12273"
+- key: FCP23
+  authors: L. Ferreira and F. Coelho and J. Pereira
+  title: "Towards MRAM Byte-Addressable Persistent Memory in Edge Database Systems"
+  where: "Joint Proceedings of Workshops at the 49th International Conference on Very Large Data Bases ({VLDB} 2023)"
+  url: "https://ceur-ws.org/Vol-3462/ADMS3.pdf"
+  year: 2023
+  domains:
+    - dbsys
 
-- year: 2019
-  list:
-    - title: "MINION: Large-Scale Distributed Systems Testing Made Practical"
-      authors: Machado N, Maia F, Neves F, Coelho F, Pereira J
-      where: International Conference on Principles of Distributed Systems (OPODIS)
-    - title: "d'Artagnan: a Trusted NoSQL Database on Untrusted Clouds"
-      authors: Pontes R, Maia F, Machado N and Vilaça R
-      where: Distributed Applications and Interoperable Systems (SRDS)
-    - title: "SafeSpark: Plataforma de Processamento Analítico Seguro"
-      authors: Carvalho H, Cruz D, Pontes R, Paulo J, Oliveira R
-      where: "INFOrum - Símpósio de Informática"
-    - title: "Electrocardiogram Beat-Classification Based on a ResNet Network"
-      authors: Brito C, Machado A, Sousa A
-      where: "Studies in Health Technology and Informatics"
-    - title: "Recovery in CloudDBAppliance’s High-availability Middleware"
-      authors: Abreu H, Ferreira L, Coelho F, Alosno A, Pereira J
-      where:  "Proceedings of the 8th International Conference on Data Science, Technology and Applications"
-    - title: "Towards Intra-Datacentre High-Availability in CloudDBAppliance"
-      authors: Ferreira L, Coelho F, Alonso A, Pereira J
-      where:  "Proceedings of the 8th International Conference on Data Science, Technology and Applications"
+- key: fpa23,
+  authors: N. Faria and J. Pereira and A. Alonso and R. Vilaça and Y. Koning and N. Nes
+  title: "TiQuE: Improving the Transactional Performance of Analytical Systems for True Hybrid Workloads"
+  year: 2023
+  where: PVLDB
+  domains:
+    - dbsys
 
-- year: 2018
-  list:
-    - title: "Assessment of an IoT Platform for Data Collection and Analysis for Medical Sensors"
-      authors: Rei J, Brito C, Sousa A
-      where: IEEE 4th International Conference on Collaboration and Internet Computing (CIC)
-    - title: "Totally Ordered Replication for Massive Scale Key-Value Stores"
-      authors: Ribeiro J, Machado N, Maia F, Matos M
-      where: Distributed Applications and Interoperable Systems (DAIS)      
+- authors: F. Coelho and A. Alonso and L. Ferreira and J. Pereira and R. Oliveira
+  title: "Loom: A Closed-Box Disaggregated Database System"
+  where: 12th Latin-American Symposium on Dependable and Secure Computing
+  year: 2023
+  key: cafpo23
+  domains:
+    - dbsys
 
-- year: 2017
-  list:
-    - title: "HTAPbench: Hybrid Transactional and Analytical Processing Benchmark"
-      authors: Coelho F, Paulo J, Vilaça R, Pereira J, Oliveira R
-      where: ACM/SPEC International Conference on Performance Engineering (ICPE)
-      link:
-      url: https://research.spec.org/icpe_proceedings/2017/proceedings/p293.pdf
-    - title: "A Practical Framework for Privacy-Preserving NoSQL Databases"
-      authors: Macedo R, Paulo J, Pontes R, Portela B, Oliveira T, Matos M, Oliveira R
-      where: IEEE International Symposium on Reliable Distributed Systems (SRDS)
-    - title: "Performance trade-offs on a secure multi-party relational database"
-      authors: Pontes R, Pinto M, Barbosa M , Vilaça R, Matos M, Oliveira R.
-      where: ACM Symposium on Applied Computing (SAC)
-    - title: "Prepared scan: efficient retrieval of structured data from HBase"
-      authors: Neves F, Vilaça R, Pereira J, Oliveira R
-      where: ACM Symposium on Applied Computing (SAC)
-    - title: "DDFlasks: Deduplicated Very Large Scale Data Store"
-      authors: Maia F, Paulo J, Coelho F, Neves F, Pereira J, Oliveira R
-      where: Distributed Applications and Interoperable Systems (DAIS)
-    - title: "Towards new data management platforms for a DSO as market enabler - UPGRID Portugal demo"
-      authors: Nunes Alonso A, Couto R, Pacheco H, Bessa R, Gouveia C, Seca L, Moreira J, Nunes P, Matos P, Oliveira A
-      where: CIRED - Open Access Proceedings Journal 2017, no.1 (CIRED)
+- key: fp23
+  authors: N. Faria and J. Pereira
+  title: "MRVs: Enforcing Numeric Invariants in Parallel Updates to Hotspots with Randomized Splitting"
+  where: "Proc. ACM Manag. Data (SIGMOD)"
+  year: 2022
+  domains:
+    - dbsys
 
-- year: 2016
-  list:
-    - title: "SafeRegions: Performance Evaluation of Multi-party Protocols on HBase"
-      authors: Pontes R, Maia F, Paulo J, Vilaça R
-      where: IEEE International Symposium on Reliable Distributed Systems Workshops (SRDSW)
-    - title: "Holistic Shuffler for the Parallel Execution of SQL Window Functions"
-      authors: Coelho F, Vilaça R, Pereira J, Oliveira R
-      where: Distributed Applications and Interoperable Systems (DAIS)
-    - title: "Resource usage prediction in distributed key-value datastores"
-      authors: Cruz F, Maia F, Matos M, Oliveira R,Paulo J, Vilaça R
-      where: Distributed Applications and Interoperable Systems (DAIS)
-    - title: "Reducing Data Transfer in Parallel Processing of SQL Window Functions"
-      authors: Coelho F, Pereira J, Vilaça R, Oliveira R
-      where: Workshop on Towards Convergence of Big Data, SQL, NoSQL, NewSQL, Data streaming/CEP, OLTP and OLAP}
+- title: "Adaptive Database Synchronization for an Online Analytical Cloud-to-Edge Continuum"
+  authors: Costa D, Pereira J., Vilaça R., Faria N.
+  where: "37th Annual ACM Symposium on Applied Computing"
+  year: 2022
+  key: old1
+  domains:
+    - dbsys
 
-- year: 2015
-  list:
-    - title: Implementing a Linear Algebra Approach to Data Processing
-      authors: Pontes R, Matos M, Oliveira J, Pereira J
-      where: Grand Timely Topics (Generative and Transformational Techniques) in Software Engineering (GTTSE)
-    - title : "CumuloNimbo: A Cloud Scalable Multi-tier SQL Database"
-      authors: Jimenez-Peris R, Patino-Martinez M, Kemme B, Brondino I, Pereira J, Vilaça R, Cruz F, Oliveira R, Ahmad Y
-      where: Bulletin of the Technical Committee on Data Engineering
+- title: "AIDA-DB: A Data Management Architecture for the Edge and Cloud Continuum"
+  authors: Faria N., Costa D, Pereira J., Vilaça R., Ferreira L., Coelho F.
+  where: "The 1st International Workshop on  Secure FunctiON ChAining and FederaTed AI - SONATAI 2022 co-located with IEEE 19th Annual Consumer Communications  Networking Conference (CCNC)"
+  year: 2022
+  key: old2
+  domains:
+    - dbsys
 
-- year: 2014
-  list:
-    - title: "DATAFLASKS: epidemic store for massive scale systems"
-      authors: Maia F, Matos M, Vilaça R, Pereira J, Oliveira R, Rivière E
-      where:  Distributed Applications and Interoperable Systems (DAIS)
-    - title: "pH1: A Transactional Middleware for NoSQL"
-      authors: Coelho F, Cruz F, Vilaça R, Pereira J, Oliveira R
-      where: IEEE International Symposium on Reliable Distributed Systems
-    - title: On the Support of Versioning in Distributed Key-Value Stores
-      authors: Felber P, Pasin M, Rivière E , Schiavoni V, Sutra P, Coelho F, Oliveira, Matos M, Vilaça R
-      where: IEEE International Symposium on Reliable Distributed Systems
-    - title: Workload-aware table splitting for NoSQL
-      authors: Cruz F, Maia F, Oliveira R, Vilaça R
-      where: ACM Symposium On Applied Computing
 
-- year: 2013
-  list:
-    - title: "MeT: workload aware elasticity for NoSQL "
-      authors: Cruz F, Maia F, Matos M, Oliveira R, Paulo J, Pereira J, Vilaça R
-      where: Proceedings of the 8th ACM European Conference on Computer Systems (EuroSys)
-    - title: "Evaluating Cassandra as a Manager of Large File Sets "
-      authors: Beernaert L, Matos M, Gomes P, Vilaça R, Oliveira R.
-      where: Third Workshop on Cloud Data and Platforms (CloudDP 13)
-    - title: "An effective scalable SQL engine for NoSQL databases}"
-      authors: Vilaça R, Cruz F, Pereira J, Oliveira R.
-      where: Distributed Applications and Interoperable Systems (DAIS)
-    - title: "AJITTS: Adaptive Just-In-Time Transaction Scheduling"
-      authors: Nunes Alonso A, Oliveira R, Pereira J.
-      where: Distributed Applications and Interoperable Systems (DAIS)
+- title: "Automatic Configuration of Secure Databases"
+  authors: Ferreira D, Paulo J, Matos M
+  where: "European Dependable Computing Conference (EDCC)"
+  year: 2021
+  key: old3
+  domains:
+    - dbsys
+
+- title: "Soteria: Privacy-Preserving Machine Learning for Apache Spark"
+  authors: Brito C, Ferreira P, Portela B, Oliveira R, Paulo J
+  where: "Cryptology ePrint Archive, Report 2021/966"
+  year: 2021
+  key: old4
+  domains:
+    - dbsys
+
+- title: "Geolocate: A geolocation-aware scheduling system for Edge Computing"
+  authors: Vilaça J, Paulo J, Vilaça R
+  where: "Workshop on High-Performance and Reliable Big Data (HPBD), colocated with SRDS."
+  year: 2021
+  key: old5
+  domains:
+    - dbsys
+
+- title: "Towards Generic Fine-Grained Transaction Isolation in Polystores"
+  authors:  Faria N., Pereira J., Nunes A., Vilaça R.,
+  where: "The polystore systems for heterogeneous data in multiple databases with privacy and security assurances (Poly 2021) co-located with 47th International Conference on Very Large Data Bases {(VLDB} 2021)"
+  year: 2021
+  key: old6
+  domains:
+    - dbsys
+
+- title: "Detailed Black-Box Monitoring of Distributed System"
+  authors: Neves F., Vilaça R., Pereira, J.
+  where: "SIGAPP Appl. Comput. Rev."
+  year: 2021
+  key: old7
+  domains:
+    - dbsys
+
+- title: "Horus: Non-Intrusive Causal Analysis of Distributed Systems Logs"
+  authors: Neves F., Machado N., Vilaça R., Pereira, J.
+  where: "2021 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)"
+  year: 2021
+  key: old8
+  domains:
+    - dbsys
+
+- title: "CODBS: A cascading oblivious search protocol optimized for real-world relational database indexes"
+  authors: Pontes R., Portela B., Barbosa M., Vilaça R.
+  where: "40th Symposium on Reliable Distributed Systems, {SRDS} 2021"
+  year: 2021
+  key: old9
+  domains:
+    - dbsys
+
+- title: "Totally-Ordered Prefix Parallel Snapshot Isolation"
+  authors: Faria N., Pereira J.
+  where: "8th Workshop on Principles and Practice of Consistency for Distributed Data"  
+  year: 2021
+  key: old10
+  domains:
+    - dbsys
+
+
+- title: "On the trade-offs of combining multiple secure processing primitives for data analytics"
+  authors: Carvalho H, Cruz D, Pontes R; Paulo J, Oliveira R
+  where: "Distributed Applications and Interoperable Systems International Conference"
+  year: 2020
+  key: old11
+  domains:
+    - dbsys
+
+- title: "Black-box inter-application traffic monitoring for adaptive container placement"
+  authors: Neves F, Vilaça R, Pereira J
+  where: "Proceedings of the ACM Symposium on Applied Computing"
+  year: 2020
+  key: old12
+  domains:
+    - dbsys
+
+- title: "Self-tunable DBMS Replication with Reinforcement Learning"
+  authors: Ferreira L., Coelho F., Pereira J.
+  where: "IFIP International Conference on Distributed Applications and Interoperable Systems" 
+  year: 2020
+  key: old13
+  domains:
+    - dbsys
+
+- title: Building a Polyglot Data Access Layer for a Low-Code Application Development Platform
+  authors: Santos L., Soares T., Pereira J.
+  where: IFIP International Conference on Distributed Applications and Interoperable Systems
+  year: 2020
+  key: old14
+  domains:
+    - dbsys
+
+- title: "Decentralized privacy-preserving proximity tracing"
+  authors: Troncoso C., Payer M., Hubaux J., Salathé M., Larus J., Bugnion E.,Lueks W., Stadler T., Pyrgelis A., Antonioli D., Barman L., Chatel S., Paterson K., Čapkun S., Basin D., Beutel J., Jackson D., Roeschlin M., Leu P., Preneel B., Smart N., Abidin A., Gürses S., Veale M.,Cremers C., Backes M., Tippenhauer N., Binns R., Cattuto C., Barrat A., Fiore D., Barbosa M., Oliveira R., Pereira J.
+  where: "arXiv preprint arXiv:2005.12273"
+  year: 2020
+  key: old15
+  domains:
+    - dbsys
+
+
+- title: "Minha: Large-Scale Distributed Systems Testing Made Practical"
+  authors: Machado N, Maia F, Neves F, Coelho F, Pereira J
+  where: International Conference on Principles of Distributed Systems (OPODIS)
+  year: 2019
+  key: old16
+  domains:
+    - dbsys
+
+- title: "d'Artagnan: a Trusted NoSQL Database on Untrusted Clouds"
+  authors: Pontes R, Maia F, Machado N and Vilaça R
+  where: Distributed Applications and Interoperable Systems (SRDS)
+  year: 2019
+  key: old17
+  domains:
+    - dbsys
+
+- title: "SafeSpark: Plataforma de Processamento Analítico Seguro"
+  authors: Carvalho H, Cruz D, Pontes R, Paulo J, Oliveira R
+  where: "INFOrum - Símpósio de Informática"
+  year: 2019
+  key: old18
+  domains:
+    - dbsys
+
+- title: "Electrocardiogram Beat-Classification Based on a ResNet Network"
+  authors: Brito C, Machado A, Sousa A
+  where: "Studies in Health Technology and Informatics"
+  year: 2019
+  key: old19
+  domains:
+    - dbsys
+
+- title: "Recovery in CloudDBAppliance’s High-availability Middleware"
+  authors: Abreu H, Ferreira L, Coelho F, Alosno A, Pereira J
+  where:  "Proceedings of the 8th International Conference on Data Science, Technology and Applications"
+  year: 2019
+  key: old19
+  domains:
+    - dbsys
+
+- title: "Towards Intra-Datacentre High-Availability in CloudDBAppliance"
+  authors: Ferreira L, Coelho F, Alonso A, Pereira J
+  where:  "Proceedings of the 8th International Conference on Data Science, Technology and Applications"
+  year: 2019
+  key: old20
+  domains:
+    - dbsys
+
+
+- title: "Assessment of an IoT Platform for Data Collection and Analysis for Medical Sensors"
+  authors: Rei J, Brito C, Sousa A
+  where: IEEE 4th International Conference on Collaboration and Internet Computing (CIC)
+  year: 2018
+  key: old21
+  domains:
+    - dbsys
+
+- title: "Totally Ordered Replication for Massive Scale Key-Value Stores"
+  authors: Ribeiro J, Machado N, Maia F, Matos M
+  where: Distributed Applications and Interoperable Systems (DAIS)      
+  year: 2018
+  key: old22
+  domains:
+    - dbsys
+
+
+- title: "HTAPbench: Hybrid Transactional and Analytical Processing Benchmark"
+  authors: Coelho F, Paulo J, Vilaça R, Pereira J, Oliveira R
+  where: ACM/SPEC International Conference on Performance Engineering (ICPE)
+  year: 2017
+  key: old23
+  domains:
+    - dbsys
+
+  link:
+  url: https://research.spec.org/icpe_proceedings/2017/proceedings/p293.pdf
+- title: "A Practical Framework for Privacy-Preserving NoSQL Databases"
+  authors: Macedo R, Paulo J, Pontes R, Portela B, Oliveira T, Matos M, Oliveira R
+  where: IEEE International Symposium on Reliable Distributed Systems (SRDS)
+  year: 2017
+  key: old24
+  domains:
+    - dbsys
+
+- title: "Performance trade-offs on a secure multi-party relational database"
+  authors: Pontes R, Pinto M, Barbosa M , Vilaça R, Matos M, Oliveira R.
+  where: ACM Symposium on Applied Computing (SAC)
+  year: 2017
+  key: old25
+  domains:
+    - dbsys
+
+- title: "Prepared scan: efficient retrieval of structured data from HBase"
+  authors: Neves F, Vilaça R, Pereira J, Oliveira R
+  where: ACM Symposium on Applied Computing (SAC)
+  year: 2017
+  key: old26
+  domains:
+    - dbsys
+
+- title: "DDFlasks: Deduplicated Very Large Scale Data Store"
+  authors: Maia F, Paulo J, Coelho F, Neves F, Pereira J, Oliveira R
+  where: Distributed Applications and Interoperable Systems (DAIS)
+  year: 2017
+  key: old27
+  domains:
+    - dbsys
+
+- title: "Towards new data management platforms for a DSO as market enabler - UPGRID Portugal demo"
+  authors: Nunes Alonso A, Couto R, Pacheco H, Bessa R, Gouveia C, Seca L, Moreira J, Nunes P, Matos P, Oliveira A
+  where: CIRED - Open Access Proceedings Journal 2017, no.1 (CIRED)
+  year: 2017
+  key: old28
+  domains:
+    - dbsys
+
+
+- title: "SafeRegions: Performance Evaluation of Multi-party Protocols on HBase"
+  authors: Pontes R, Maia F, Paulo J, Vilaça R
+  where: IEEE International Symposium on Reliable Distributed Systems Workshops (SRDSW)
+  year: 2016
+  key: old29
+  domains:
+    - dbsys
+
+- title: "Holistic Shuffler for the Parallel Execution of SQL Window Functions"
+  authors: Coelho F, Vilaça R, Pereira J, Oliveira R
+  where: Distributed Applications and Interoperable Systems (DAIS)
+  year: 2016
+  key: old30
+  domains:
+    - dbsys
+
+- title: "Resource usage prediction in distributed key-value datastores"
+  authors: Cruz F, Maia F, Matos M, Oliveira R,Paulo J, Vilaça R
+  where: Distributed Applications and Interoperable Systems (DAIS)
+  year: 2016
+  key: old31
+  domains:
+    - dbsys
+
+- title: "Reducing Data Transfer in Parallel Processing of SQL Window Functions"
+  authors: Coelho F, Pereira J, Vilaça R, Oliveira R
+  where: Workshop on Towards Convergence of Big Data, SQL, NoSQL, NewSQL, Data streaming/CEP, OLTP and OLAP}
+  year: 2016
+  key: old32
+  domains:
+    - dbsys
+
+
+- title: Implementing a Linear Algebra Approach to Data Processing
+  authors: Pontes R, Matos M, Oliveira J, Pereira J
+  where: Grand Timely Topics (Generative and Transformational Techniques) in Software Engineering (GTTSE)
+  year: 2015
+  key: old33
+  domains:
+    - dbsys
+
+- title : "CumuloNimbo: A Cloud Scalable Multi-tier SQL Database"
+  authors: Jimenez-Peris R, Patino-Martinez M, Kemme B, Brondino I, Pereira J, Vilaça R, Cruz F, Oliveira R, Ahmad Y
+  where: Bulletin of the Technical Committee on Data Engineering
+  year: 2015
+  key: old34
+  domains:
+    - dbsys
+
+
+- title: "DATAFLASKS: epidemic store for massive scale systems"
+  authors: Maia F, Matos M, Vilaça R, Pereira J, Oliveira R, Rivière E
+  where:  Distributed Applications and Interoperable Systems (DAIS)
+  year: 2014
+  key: old35
+  domains:
+    - dbsys
+
+- title: "pH1: A Transactional Middleware for NoSQL"
+  authors: Coelho F, Cruz F, Vilaça R, Pereira J, Oliveira R
+  where: IEEE International Symposium on Reliable Distributed Systems
+  year: 2014
+  key: old36
+  domains:
+    - dbsys
+
+- title: On the Support of Versioning in Distributed Key-Value Stores
+  authors: Felber P, Pasin M, Rivière E , Schiavoni V, Sutra P, Coelho F, Oliveira, Matos M, Vilaça R
+  where: IEEE International Symposium on Reliable Distributed Systems
+  year: 2014
+  key: old37
+  domains:
+    - dbsys
+
+- title: Workload-aware table splitting for NoSQL
+  authors: Cruz F, Maia F, Oliveira R, Vilaça R
+  where: ACM Symposium On Applied Computing
+  year: 2014
+  key: old38
+  domains:
+    - dbsys
+
+
+- title: "MeT: workload aware elasticity for NoSQL "
+  authors: Cruz F, Maia F, Matos M, Oliveira R, Paulo J, Pereira J, Vilaça R
+  where: Proceedings of the 8th ACM European Conference on Computer Systems (EuroSys)
+  year: 2013
+  key: old39
+  domains:
+    - dbsys
+
+- title: "Evaluating Cassandra as a Manager of Large File Sets "
+  authors: Beernaert L, Matos M, Gomes P, Vilaça R, Oliveira R.
+  where: Third Workshop on Cloud Data and Platforms (CloudDP 13)
+  year: 2013
+  key: old40
+  domains:
+    - dbsys
+
+- title: "An effective scalable SQL engine for NoSQL databases}"
+  authors: Vilaça R, Cruz F, Pereira J, Oliveira R.
+  where: Distributed Applications and Interoperable Systems (DAIS)
+  year: 2013
+  key: old41
+  domains:
+    - dbsys
+
+- title: "AJITTS: Adaptive Just-In-Time Transaction Scheduling"
+  authors: Nunes Alonso A, Oliveira R, Pereira J.
+  where: Distributed Applications and Interoperable Systems (DAIS)
+  year: 2013
+  key: old42
+  domains:
+    - dbsys
+

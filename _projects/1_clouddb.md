@@ -1,0 +1,27 @@
+---
+layout: project
+title: Project
+status: Finished
+excerpt: CloudDBAppliance
+name: European Cloud In-Memory Database Appliance
+description:  European Cloud Database Appliance for providing a Database as a Service able to match the predictable performance, robustness and trustworthiness of on premise architectures such as those based on mainframes.
+type: EU H2020
+img: /assets/images/prjpic/clouddb.png
+permalink: /projects/cloudb
+redirect: http://clouddb.eu/
+visible: true
+duration:
+partners:
+external_collaborations:
+financing:
+classes: wide
+sitemap: false
+author_profile: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+---
+
+ This project aims at producing a European Cloud Database Appliance for providing a Database as a Service able to match the predictable performance, robustness and trustworthiness of on premise architectures such as those based on mainframes. We are particularly involved in tasks related to the load balancing and faul-tolerance of database requests and the orchestration/deployment of database components.
+
+ Partners: Bull, LeanXcale, QuartetFS,Nordea, BTO, H3G, Ikea, INESC TEC, UPM, INRIA, CloudBiz, Singular Logic

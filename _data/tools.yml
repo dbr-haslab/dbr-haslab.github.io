@@ -1,0 +1,50 @@
+- name: TiQuE
+  repo: https://github.com/nuno-faria/tique
+  description: Transactions in the Query Engine.
+  highlight: true
+
+- name: MRV
+  repo: https://github.com/nuno-faria/mrv
+  description: Multi Record Values.
+  highlight: true
+
+- name: HTAPBench
+  repo: https://github.com/faclc4/HTAPBench
+  description: HTAPBench is a benchmarking suite designed for database engines that support hybrid workloads (HTAP) composed of high levels of transactional activity and, at the same time, provide business analytics directly over production data.
+  highlight: false
+  
+- name: TPC-W
+  repo: https://github.com/jopereira/java-tpcw/tree/uminho
+  description: Simplified version of Java TPC-W implementation used at U. Minho.
+  highlight: false
+
+- name: Escada TPCC
+  repo: https://github.com/rmpvilaca/EscadaTPC-C
+  description: Easy to use JDBC benchmark that closely resembles the TPC-C standard for OLTP.  
+  highlight: false
+
+- name: d'Artagnan
+  description: Vision of a Trusted Database on Untrusted Clouds
+  repo: https://github.com/d-artagnan-db
+  highlight: false
+
+- name: MeT
+  link: https://github.com/fmaia/met
+  description: Cloud-enabled framework that can be used alone or in conjunction with OpenStack for the automatic and heterogeneous reconfiguration of HBase. 
+  highlight: false
+
+- name: Escada Toolkit
+  repo: http://escada.sourceforge.net/
+  description: ESCADA is a portable and flexible database replication system supporting Apache Derby, PostgreSQL, and MySQL RDBMs.
+  highlight: false
+
+- name: GORDA Architecture and Programming Interface (GAPI)
+  repo: https://launchpad.net/gapi
+  description: GAPI allows portable replication protocols to be easily implemented and reused with different database management systems.
+  highlight: false
+
+#- name: SafeNoSQL
+#  description: A generic NoSQL framework, together with a set of libraries supporting data processing cryptographic techniques. 
+#  highlight: false
+
+

@@ -1,11 +1,25 @@
 ---
 layout: project
-title: InterConnect
-description: Interoperable Solutions Connecting Smart Homes, Buildings and Grids. InterConnect envisages to contribute for the democratization of efficient energy management, through a flexible and interoperable ecosystem where demand side flexibility can be soundly integrated with effective benefits to end-users.
+status: Finished
+title: Project
+excerpt: InterConnect
+name: Interoperable Solutions Connecting Smart Homes, Buildings and Grids
+description: InterConnect envisages to contribute for the democratization of efficient energy management, through a flexible and interoperable ecosystem where demand side flexibility can be soundly integrated with effective benefits to end-users.
 type: EU H2020
-img: interconnect.png
+img: /assets/images/prjpic/interconnect.png
 permalink: /projects/interconnect
 redirect: https://interconnectproject.eu/
+visible: true
+duration:
+partners:
+external_collaborations:
+financing:
+classes: wide
+sitemap: false
+author_profile: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
 ---
 
 InterConnect envisages to contribute for the democratization of efficient energy management, through a flexible and interoperable ecosystem where demand side flexibility can be soundly integrated with effective benefits to end-users. In fact, over the last few years several projects and technology providers have come up with solutions that allow every energy user to have awareness and control over his appliances, but there has always been a major issue with interoperability. End-users should be able to choose and change their technology providers, without having to replace their installation, every time they feel this need and still be able to adopt sustainable behaviour and benefit from technological advances. 

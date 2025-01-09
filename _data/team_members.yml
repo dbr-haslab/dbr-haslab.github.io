@@ -1,78 +1,67 @@
-- name: <a href="http://haslab.uminho.pt/jop">José Pereira</a>
-  photo: jop.jpg
-  info: Assistant professor
-  email: jose.o.pereira@inesctec.pt
-  git: https://github.com/jopereira
-  ldin:
+- name: <a href="https://www.inesctec.pt/en/people/fabio-andre-coelho">Fábio Coelho</a>
+  photo: facoelho.png
+  info: Senior Researcher
+  email: fabio.a.coelho@inesctec.pt
+  id: fabio.a.coelho
+  git: https://github.com/faclc4
+  ldin: https://www.linkedin.com/in/fabio-coelho-02907136/
   number_educ: 0
 
-- name: <a href="http://haslab.uminho.pt/rco">Rui Oliveira</a>
+- name: <a href="https://www.inesctec.pt/en/people/ana-nunes-alonso">Ana Nunes Alonso</a>
+  photo: anunes.png
+  info: Assistant Researcher
+  email: ana.n.alonso@inesctec.pt
+  id: ana.n.alonso
+  git: https://github.com/ananunesalonso
+  ldin: https://www.linkedin.com/in/ana-nunes-alonso-bb08b95b/
+  number_educ: 0 
+
+- name: <a href="https://jopereira.github.io">José Pereira</a>
+  photo: jop.jpg
+  info: Associate professor
+  email: jop@di.uminho.pt
+  id: jop
+  git: https://github.com/jopereira
+  ldin: https://www.linkedin.com/in/jopereira/
+  number_educ: 0
+
+- name: Rui Oliveira
   photo: rco.jpg
-  info: Assistant professor
+  info: Associate professor
   email: rco@di.uminho.pt
+  id: rco
   git:
   ldin: https://www.linkedin.com/in/rcmoliveira/
   number_educ: 0
 
-- name: <a href="https://haslab.uminho.pt/als">António Sousa</a>
+- name: António Sousa
   photo: als.jpg
-  info: Assistant professor
+  info: Associate professor
   email: als@di.uminho.pt
+  id: als
   git:
   ldin: 
   number_educ: 0  
 
-- name: <a href="https://rmpvilaca.github.io/">Ricardo Vilaça</a>
-  photo: rmv.png
-  info: Researcher
-  email: rmvilaca@di.uminho.pt
-  git: https://github.com/rmpvilaca
-  ldin:
-  number_educ: 0
-
-- name: <a href="http://haslab.uminho.pt/jtpaulo">João Paulo</a>
+- name: <a href="https://jtpaulo.github.io">João Paulo</a>
   photo: jtpaulo.jpg
-  info: Researcher
+  info: Assistant Professor
   email: jtpaulo@inesctec.pt
   git: https://github.com/jtpaulo/
   ldin:
   number_educ: 0
 
-- name: <a href="http://haslab.uminho.pt/facoelho">Fábio Coelho</a>
-  photo: facoelho.png
-  info: Researcher
-  email: fabio.a.coelho@inesctec.pt
-  git: https://github.com/faclc4
-  ldin: https://www.linkedin.com/in/fabio-coelho-02907136/
-  number_educ: 0
-
-- name: <a href="http://haslab.uminho.pt/aln">Ana Nunes</a>
-  photo: anunes.png
-  info: Researcher
-  email: ana.n.alonso@inesctec.pt
-  git: 
-  ldin: https://www.linkedin.com/in/ana-nunes-alonso-bb08b95b/
-  number_educ: 0 
-
-- name: <a href="https://www.inesctec.pt/en/people/ricardo-goncalves-macedo">Ricardo Macedo</a>
+- name: <a href="https://rgmacedo.github.io">Ricardo Macedo</a>
   photo: rgmacedo.jpg
-  info: PhD student
+  info: Assistant Researcher
   email: ricardo.g.macedo@inesctec.pt
-  git: https://github.com/ricardomacedo13
+  git: https://github.com/rgmacedo
   ldin:
   number_educ: 0 
     
-- name: <a href="http://haslab.uminho.pt/racp">Rogério Pontes</a>
-  photo: rogerio.jpg
-  info: PhD student
-  git: https://github.com/rogerioacp
-  ldin: https://www.linkedin.com/in/rogerpontes
-  email: rogerio.a.pontes@inesctec.pt
-  number_educ: 0
-
-- name: <a href="https://www.inesctec.pt/pt/pessoas/claudia-vanessa-brito">Cláudia Brito</a>
+- name: <a href="https://claudiavmbrito.github.io">Cláudia Brito</a>
   photo: claudia.jpg
-  info: PhD student
+  info: Assistant Researcher
   git: https://github.com/claudiavmbrito
   ldin: www.linkedin.com/in/claudiavmbrito
   email: claudia.v.brito@inesctec.pt
@@ -86,31 +75,55 @@
   ldin: 
   number_educ: 0
 
-- name: <a href="">José Silva</a>
+- name: André Gonçalves
   photo: nophoto.jpg
-  info: Researcher
-  email:
+  info: PhD Student
+  email: andre.s.goncalves@inesctec.pt
   git: 
   ldin: 
   number_educ: 0
 
-- name: <a href="">Nuno Faria</a>
+- name: Manuel Barros
+  photo: nophoto.jpg
+  info: PhD Student
+  email: manuel.q.barros@inesctec.pt
+  git: 
+  ldin: 
+  number_educ: 0
+
+- name: <a href="https://nuno-faria.github.io">Nuno Faria</a>
   photo: nophoto.jpg
   info: Researcher
   email: nuno.f.faria@inesctec.pt
-  git: 
+  git: https://github.com/nuno-faria
   ldin: 
   number_educ: 0
 
-- name: <a href="">Daniel Costa</a>
+- name: Luís Silva
   photo: nophoto.jpg
-  info: Researcher
-  email: daniel.v.costa@inesctec.pt
+  info: MSc Student
+  email: luis.p.silva@inesctec.pt
   git: 
   ldin: 
   number_educ: 0
 
-- name: <a href="https://www.inesctec.pt/pt/pessoas/paula-cristina-rodrigues">Paula Rodrigues</a>
+- name: Rui Braga
+  photo: nophoto.jpg
+  info: MSc Student
+  email: rui.m.braga@inesctec.pt
+  git: 
+  ldin: 
+  number_educ: 0
+
+- name: Pedro Sousa
+  photo: nophoto.jpg
+  info: MSc Student
+  email: pedro.a.sousa@inesctec.pt
+  git: 
+  ldin: 
+  number_educ: 0
+
+- name: Paula Rodrigues
   photo: paula.jpg
   info: Communication and Dissemination
   email: paula.c.rodrigues@inesctec.pt
