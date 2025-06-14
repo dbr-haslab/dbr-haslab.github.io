@@ -1,21 +1,3 @@
-- name: <a href="https://www.inesctec.pt/en/people/fabio-andre-coelho">Fábio Coelho</a>
-  photo: facoelho.png
-  info: Senior Researcher
-  email: fabio.a.coelho@inesctec.pt
-  id: fabio.a.coelho
-  git: https://github.com/faclc4
-  ldin: https://www.linkedin.com/in/fabio-coelho-02907136/
-  number_educ: 0
-
-- name: <a href="https://www.inesctec.pt/en/people/ana-nunes-alonso">Ana Nunes Alonso</a>
-  photo: anunes.png
-  info: Assistant Researcher
-  email: ana.n.alonso@inesctec.pt
-  id: ana.n.alonso
-  git: https://github.com/ananunesalonso
-  ldin: https://www.linkedin.com/in/ana-nunes-alonso-bb08b95b/
-  number_educ: 0 
-
 - name: <a href="https://jopereira.github.io">José Pereira</a>
   photo: jop.jpg
   info: Associate professor
@@ -51,6 +33,24 @@
   ldin:
   number_educ: 0
 
+- name: <a href="https://www.inesctec.pt/en/people/ana-nunes-alonso">Ana Nunes Alonso</a>
+  photo: anunes.png
+  info: Senior Researcher
+  email: ana.n.alonso@inesctec.pt
+  id: ana.n.alonso
+  git: https://github.com/ananunesalonso
+  ldin: https://www.linkedin.com/in/ana-nunes-alonso-bb08b95b/
+  number_educ: 0 
+
+- name: <a href="https://www.inesctec.pt/en/people/fabio-andre-coelho">Fábio Coelho</a>
+  photo: facoelho.png
+  info: Senior Researcher
+  email: fabio.a.coelho@inesctec.pt
+  id: fabio.a.coelho
+  git: https://github.com/faclc4
+  ldin: https://www.linkedin.com/in/fabio-coelho-02907136/
+  number_educ: 0
+
 - name: <a href="https://rgmacedo.github.io">Ricardo Macedo</a>
   photo: rgmacedo.jpg
   info: Assistant Researcher
@@ -71,6 +71,14 @@
   photo: meruje.jpg
   info: PhD Student
   email: luis.m.ferreira@inesctec.pt
+  git: 
+  ldin: 
+  number_educ: 0
+
+- name: <a href="https://www.inesctec.pt/en/people/luis-manuel-ferreira">Susana Marques</a>
+  photo: 
+  info: PhD Student
+  email: susana.v.marques@inesctec.pt
   git: 
   ldin: 
   number_educ: 0
@@ -96,6 +104,30 @@
   info: Researcher
   email: nuno.f.faria@inesctec.pt
   git: https://github.com/nuno-faria
+  ldin: 
+  number_educ: 0
+
+- name: <a href="https://nuno-faria.github.io">Pedro Pereira</a>
+  photo: nophoto.jpg
+  info: Researcher
+  email: pedro.l.pereira@inesctec.pt
+  git: 
+  ldin: 
+  number_educ: 0
+
+- name: <a href="https://nuno-faria.github.io">Adriano Maior</a>
+  photo: nophoto.jpg
+  info: Researcher
+  email: adriano.n.maior@inesctec.pt
+  git: 
+  ldin: 
+  number_educ: 0
+
+- name: <a href="https://nuno-faria.github.io">Rafael Braga</a>
+  photo: nophoto.jpg
+  info: Researcher
+  email: rafael.b.costa@inesctec.pt
+  git: 
   ldin: 
   number_educ: 0
 

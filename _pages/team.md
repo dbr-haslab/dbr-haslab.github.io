@@ -75,10 +75,10 @@ We are looking for new Postdocs, PhD students and Master/Bachelor students to jo
  - Fábio Coelho, Towards a Transactional and Analytical Data Management System for Big Data, 2018
  - Ana Nunes Alonso, Database Replication for Enterprise Applications, 2017
  - Clayton Costa, Efficient adaptive query processing on large database systems available in the cloud environment, 2017, Now faculty at [UFRN](https://www.ufrn.br/)
- - Francisco Cruz, Towards autonomic workload aware NoSQL databases, 2016, Now at [SafeCloud](https://safecloudtech.com/)
- - Francisco Maia, Epidemic Store for Massive Scale Systems, 2015, Now at [SafeCloud](https://safecloudtech.com/)
+ - Francisco Cruz, Towards autonomic workload aware NoSQL databases, 2016, Now at [InvisibleLabs](https://invisiblelab.dev/)
+ - Francisco Maia, Epidemic Store for Massive Scale Systems, 2015, Now faculty at [FEUP](https://www.up.pt/feup/en//)
  - Miguel Matos, Epidemic algorithms for large scale data dissemination, 2013, Now faculty at [IST](https://tecnico.ulisboa.pt)
- - Ricardo Vilaça, Clouder: a flexible large scale decentralized object store, 2012, [LeanXcale](https://www.leanxcale.com/), Now at [UMinho](https://www.uminho.pt)
+ - Ricardo Vilaça, Clouder: a flexible large scale decentralized object store, 2012, [Critical Techworks](https://www.criticaltechworks.com/)
  - Alfranio Correia, Practical database replication, 2010, Now at [Oracle-MySQL](https://www.mysql.com)
  - Filipe Campos, Fault Tolerant Service Integration, 2017, Now at [Oracle-MySQL](https://www.mysql.com)
  - Paulo Jesus, Robust Distributed Data Aggregation, 2012, Now at [Oracle-MySQL](https://www.mysql.com)
