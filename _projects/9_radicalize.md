@@ -11,6 +11,7 @@ redirect: https://www.outsystems.com/financial-incentive-program/
 visible: true
 duration:
 partners:
+region:  PT
 external_collaborations:
 financing:
 classes: wide

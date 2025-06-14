@@ -76,7 +76,7 @@
   number_educ: 0
 
 - name: <a href="https://www.inesctec.pt/en/people/luis-manuel-ferreira">Susana Marques</a>
-  photo: 
+  photo: susana.jpg
   info: PhD Student
   email: susana.v.marques@inesctec.pt
   git: 
@@ -108,7 +108,7 @@
   number_educ: 0
 
 - name: <a href="https://nuno-faria.github.io">Pedro Pereira</a>
-  photo: nophoto.jpg
+  photo: pedropereira.png
   info: Researcher
   email: pedro.l.pereira@inesctec.pt
   git: 
@@ -116,7 +116,7 @@
   number_educ: 0
 
 - name: <a href="https://nuno-faria.github.io">Adriano Maior</a>
-  photo: nophoto.jpg
+  photo: adriano.png
   info: Researcher
   email: adriano.n.maior@inesctec.pt
   git: 
@@ -124,7 +124,7 @@
   number_educ: 0
 
 - name: <a href="https://nuno-faria.github.io">Rafael Braga</a>
-  photo: nophoto.jpg
+  photo: rafael.jpg
   info: Researcher
   email: rafael.b.costa@inesctec.pt
   git: 

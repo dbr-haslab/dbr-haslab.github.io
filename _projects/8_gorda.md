@@ -12,6 +12,7 @@ redirect: http://gorda.di.uminho.pt/
 visible: true
 duration:
 partners:
+region:  EU
 external_collaborations:
 financing:
 classes: wide

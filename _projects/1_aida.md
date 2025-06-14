@@ -2,6 +2,7 @@
 layout: project
 title: Project
 excerpt: AIDA
+region: PT
 status: Finished
 type:  COMPETE 2020/ CMU Portugal
 name: Adaptive, Intelligent and Distributed Assurance Platform

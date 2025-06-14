@@ -20,12 +20,15 @@ header:
 
 {% assign sorted_projects = projects_highlighted | concat: other_projects %}
 
+<h6>European Projects</h6>
+
 <div id="dsr_tools">
 
 {% assign number_printed = 0 %}
 {% for project in sorted_projects %}
   {% assign even_odd = number_printed | modulo: 4 %}
   {% if project.visible != false %}
+  {% if project.region == "EU" %}
     {% if even_odd == 0 %}
     <div class="card-group">
     {% endif %}
@@ -46,6 +49,7 @@ header:
     </div>
     {% endif %}
   {% endif %}
+  {% endif %}
 {% endfor %}
 
 
@@ -59,6 +63,54 @@ header:
 {% endfor %}
 
 {% endif %}
+
+</div>
+
+
+<h6>National Projects</h6>
+
+<div id="dsr_tools">
+
+{% assign number_printed = 0 %}
+{% for project in sorted_projects %}
+  {% assign even_odd = number_printed | modulo: 4 %}
+  {% if project.visible != false %}
+  {% if project.region == "PT" %}
+    {% if even_odd == 0 %}
+    <div class="card-group">
+    {% endif %}
+    <div class="card">
+      <a href="{{project.permalink}}">
+        <div class="card-block">
+          <h4 class="card-title">{{ project.excerpt }}</h4>
+          <p class="card-tool-text">{{ project.name }}</p>
+        </div>
+      </a>
+        <div class="card_bottom_section">
+          <span><i class="fas fa-info"></i>&nbsp; {{project.status}}</span>
+        </div>
+    </div>
+    {% assign number_printed = number_printed | plus: 1 %}
+    {% assign even_odd = number_printed | modulo: 4 %}
+    {% if even_odd == 0 %}
+    </div>
+    {% endif %}
+  {% endif %}
+  {% endif %}
+{% endfor %}
+
+
+{% if even_odd != 0 %}
+
+{% assign remaining = 4 | minus: even_odd %}
+
+{% for i in (1..remaining) %}
+  <div class="card noHover notransition" style="border:0">
+  </div>
+{% endfor %}
+
+{% endif %}
+
 
 
 <!-- ## ACTIVE

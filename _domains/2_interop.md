@@ -15,7 +15,7 @@ goals:
 highlighted_pubs:
   - macedo2022paio
   - miranda2021s2dedup
-contact: 
+contact: fabio.a.coelho
 classes: wide
 sitemap: false
 author_profile: false

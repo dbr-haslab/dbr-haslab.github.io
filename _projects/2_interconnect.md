@@ -11,6 +11,7 @@ permalink: /projects/interconnect
 redirect: https://interconnectproject.eu/
 visible: true
 duration:
+region:  EU
 partners:
 external_collaborations:
 financing:

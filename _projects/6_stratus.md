@@ -11,6 +11,7 @@ img: /assets/images/prjpic/stratus.png
 visible: true
 duration:
 partners:
+region:  PT
 external_collaborations:
 financing:
 classes: wide

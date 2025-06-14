@@ -12,6 +12,7 @@ description:
 partners:
 external_collaborations:
 financing:
+region:  PT
 classes: wide
 sitemap: false
 author_profile: false

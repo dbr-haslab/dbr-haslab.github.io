@@ -4,7 +4,7 @@ title: Project
 status: Finished
 excerpt: InteGrid
 name: InteGrid
-type:  EU H2020
+region:  EU
 permalink: /projects/integrid
 img: /assets/images/prjpic/integrid.png
 description: InteGrid’s vision is to bridge the gap between citizens and technology/solution providers such as utilities, aggregators, manufacturers and all other agents providing energy services

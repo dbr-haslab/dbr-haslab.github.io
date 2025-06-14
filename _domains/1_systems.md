@@ -5,7 +5,7 @@ excerpt: Database Systems
 subtitle: "Database Systems"
 domain_acr: dbsys
 permalink: /research/dbsys
-brief_description:  (Replication, transactions, polyglot, security)
+brief_description:  Data and data management is ubiquitous in today's societey and economy. The efficiency, scalability and privacy in the scope of data management is paramount. DBR research and designs new techniques and middleware systems for the next generation of distributed data management, from the edge and to the cloud, covering the full comuting continuum.
 summary: 
   <p> Data is the foundation of modern innovation, decision-making, and operational efficiency. Central to managing this data are databases—organized systems that securely store vast amounts of information. 
   </p>

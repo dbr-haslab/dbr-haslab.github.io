@@ -14,6 +14,7 @@ duration:
 partners:
 external_collaborations:
 financing:
+region:  EU
 classes: wide
 sitemap: false
 author_profile: false
