@@ -25,6 +25,8 @@ goals:
     description: .
   - name: Dependability and security
     description: .
+  - name: Edge Data processing and management
+    description: DSR is investing in researching in inclusion of database management primitives in edge devices. This includes leveraging from existing accelerator units in the edge hardware, and the usage innovative memory options to support maintenance of edge database nodes or small data models. We span from devices with microcontoller, microprocessor or sink nodes. Future work moves into inlcusion of data placement, distributed coordination among edge nodes.
 highlighted_pubs:
   - ramos2024amnesia
   - fcp24
