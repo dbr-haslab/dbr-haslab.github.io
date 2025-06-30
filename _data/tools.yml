@@ -1,3 +1,8 @@
+- name: CRDVs
+  repo: https://github.com/nuno-faria/crdv
+  description: Conflict-free Replicated Data Views.
+  highlight: true
+
 - name: TiQuE
   repo: https://github.com/nuno-faria/tique
   description: Transactions in the Query Engine.

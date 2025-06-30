@@ -1,3 +1,30 @@
+- authors: N. Faria, and J. Pereira
+  domains:
+  - dbsys
+  key: fp25
+  link:
+    url: https://doi.org/10.1145/3709675
+  title: 'CRDV: Conflict-free Replicated Data Views'
+  where: Proc. ACM Manag. Data (SIGMOD)
+  year: 2025
+- authors: P. A. Sousa, N. Faria, J. Pereira, and A. Alonso
+  domains:
+  - dbsys
+  key: sfpa25
+  link:
+    url: https://doi.org/10.1109/EDCC66201.2025.00021
+  title: Towards Efficient Client-Side Transactions for Heterogeneous Cloud Data Stores (Short Paper)
+  where: 20th European Dependable Computing Conference (EDCC)
+  year: 2025
+- authors: R. Braga, J. Pereira, and F. Coelho
+  domains:
+  - dbsys
+  key: bpc25
+  link:
+    url: https://doi.org/10.1145/3672608.3707968
+  title: Towards Adaptive Transactional Consistency for Georeplicated Datastores
+  where: ACM Symposium on Applied Computing (SAC) - Dependable and Adaptive Distributed Systems
+  year: 2025
 - title: "When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"
   authors: Ramos M, Azevedo J, Kingsbury K, Pereira J, Esteves T, Macedo R & Paulo J
   where: PVLDB
