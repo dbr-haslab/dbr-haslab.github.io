@@ -71,6 +71,7 @@
   domains:
     - dbsys
 
+
 - key: fp23
   authors: N. Faria and J. Pereira
   title: "MRVs: Enforcing Numeric Invariants in Parallel Updates to Hotspots with Randomized Splitting"
@@ -433,4 +434,12 @@
   key: old42
   domains:
     - dbsys
+
+- authors: M.Tosic, F. Coelho, B.Nouwt, D.Rua, A.Tomcic, S.Pesic 
+  title: "Towards a Cross-domain Semantically Interoperable Ecosystem"
+  where: 15th ACM International Conference on Web Search and Data Mining
+  year: 2022
+  key: SIF
+  domains:
+    - interop
 

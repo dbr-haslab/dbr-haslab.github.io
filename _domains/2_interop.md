@@ -10,12 +10,12 @@ summary:
     The variety of data systems, formats, representation standards, but also the diverse usage of protocols, limit data exchange and the extraction of knowledge that can be swiftly applied by applications with poliglot needs. Through several applicational projects, supported by real-use cases, we research, develop and deploy methodologies, middleware systems for interoperability, namely through the use of semantic interoperability. Moreover, we aslo research and develop systems aligned with the Data Spaces for improved data sovereignhty guarantees for privacy and control on top of data.
 goals:
   - name: DataSpaces
-    description: DataSpaces...
+    description: DataSpaces envisions data usage to be controlled regarding who, when and for which purpose data can be used, i.e, ensuring data sovereignty, thus supporting a robust and collaborative ecosystem guided by law, regulations, and data usage directives. It it build on four key features that are embodied in the technologies that support data space deployments, namely a) security and privacy, b) quality and integrity, c) policy and governance, and d) Performance and high availability.
+      You can check more details on our roadmap in our <a href="https://www.inesctec.pt/uploads/inline/DataSpaces_Manifesto.pdf"> Data Spaces Manifesto</a>.
   - name: Blockchains
     description: Blockchains...
 highlighted_pubs:
-  - macedo2022paio
-  - miranda2021s2dedup
+  - SIF
 contact: fabio.a.coelho
 classes: wide
 sitemap: false

@@ -22,6 +22,11 @@
   repo: 
   description: MulltetBench is a benchmarking suite designed for to assess edge database systems.
   highlight: false
+
+- name: SIF 
+  repo: https://github.com/lf-energy/foundation/blob/main/project_charters/interconnect-sif_charter.pdf
+  description: Semantic Interoperability Framework
+  highlight: false
   
 - name: TPC-W
   repo: https://github.com/jopereira/java-tpcw/tree/uminho
