@@ -1,6 +1,11 @@
-- name: University of Lisbon
-  logo: /assets/images/logopic/ul.png
-- name: University of Neuchâtel
-  logo: /assets/images/logopic/unine.png
-- name: Técnico Lisboa
-  logo: /assets/images/logopic/tecnicolisboa.png
+
+- name: INCM
+  logo: /assets/images/logopic/INCM_versao_cores.png
+- name: CMU
+  logo: /assets/images/logopic/CMU_logo.png
+- name: MonetDB
+  logo: /assets/images/logopic/monetdb.png
+- name: Jepsen
+  logo: /assets/images/logopic/jepsen.jpg
+- name: Unicage
+  logo: /assets/images/logopic/unicage.png

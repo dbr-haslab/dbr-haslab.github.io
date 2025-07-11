@@ -1,4 +1,7 @@
 - images:
+  - image: /assets/images/photos/20240625_sigmod_award.jpeg
+    caption: Honorable Mention award at SIGMOD (2025)
+    date: 2025-06-26
   - image: /assets/images/photos/20240827_lazyfs_presentation_vldb.jpg
     caption: Maria Ramos presenting the LazyFS system at VLDB (2024)
     date: 2024-08-27
