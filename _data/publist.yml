@@ -45,12 +45,15 @@
   key: fcp24
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1145/3666001
 
 - key: FCP23
   authors: L. Ferreira and F. Coelho and J. Pereira
   title: "Towards MRAM Byte-Addressable Persistent Memory in Edge Database Systems"
   where: "Joint Proceedings of Workshops at the 49th International Conference on Very Large Data Bases ({VLDB} 2023)"
-  url: "https://ceur-ws.org/Vol-3462/ADMS3.pdf"
+  link:
+    url: "https://ceur-ws.org/Vol-3462/ADMS3.pdf"
   year: 2023
   domains:
     - dbsys
@@ -62,6 +65,8 @@
   where: PVLDB
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.14778/3598581.3598598
 
 - authors: F. Coelho and A. Alonso and L. Ferreira and J. Pereira and R. Oliveira
   title: "Loom: A Closed-Box Disaggregated Database System"
@@ -70,6 +75,8 @@
   key: cafpo23
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1145/3615366.3615424
 
 
 - key: fp23
@@ -79,6 +86,8 @@
   year: 2022
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1145/3588723
 
 - title: "Adaptive Database Synchronization for an Online Analytical Cloud-to-Edge Continuum"
   authors: Costa D, Pereira J., Vilaça R., Faria N.
@@ -128,6 +137,8 @@
   key: old6
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1007/978-3-030-93663-1_3
 
 - title: "Detailed Black-Box Monitoring of Distributed System"
   authors: Neves F., Vilaça R., Pereira, J.
@@ -136,6 +147,8 @@
   key: old7
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1145/3477133.3477135
 
 - title: "Horus: Non-Intrusive Causal Analysis of Distributed Systems Logs"
   authors: Neves F., Machado N., Vilaça R., Pereira, J.
@@ -144,6 +157,8 @@
   key: old8
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1109/DSN48987.2021.00035
 
 - title: "CODBS: A cascading oblivious search protocol optimized for real-world relational database indexes"
   authors: Pontes R., Portela B., Barbosa M., Vilaça R.
@@ -160,6 +175,8 @@
   key: old10
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1145/3447865.3457966
 
 
 - title: "On the trade-offs of combining multiple secure processing primitives for data analytics"
@@ -177,6 +194,8 @@
   key: old12
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1145/3341105.3374007
 
 - title: "Self-tunable DBMS Replication with Reinforcement Learning"
   authors: Ferreira L., Coelho F., Pereira J.
@@ -185,6 +204,8 @@
   key: old13
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1007/978-3-030-50323-9_9
 
 - title: Building a Polyglot Data Access Layer for a Low-Code Application Development Platform
   authors: Santos L., Soares T., Pereira J.
@@ -193,6 +214,8 @@
   key: old14
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1007/978-3-030-50323-9_6
 
 - title: "Decentralized privacy-preserving proximity tracing"
   authors: Troncoso C., Payer M., Hubaux J., Salathé M., Larus J., Bugnion E.,Lueks W., Stadler T., Pyrgelis A., Antonioli D., Barman L., Chatel S., Paterson K., Čapkun S., Basin D., Beutel J., Jackson D., Roeschlin M., Leu P., Preneel B., Smart N., Abidin A., Gürses S., Veale M.,Cremers C., Backes M., Tippenhauer N., Binns R., Cattuto C., Barrat A., Fiore D., Barbosa M., Oliveira R., Pereira J.
@@ -201,6 +224,8 @@
   key: old15
   domains:
     - dbsys
+  link:
+    url: http://sites.computer.org/debull/A20june/p36.pdf
 
 
 - title: "Minha: Large-Scale Distributed Systems Testing Made Practical"
@@ -210,6 +235,8 @@
   key: old16
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.4230/LIPIcs.OPODIS.2019.11
 
 - title: "d'Artagnan: a Trusted NoSQL Database on Untrusted Clouds"
   authors: Pontes R, Maia F, Machado N and Vilaça R
@@ -233,7 +260,7 @@
   year: 2019
   key: old19
   domains:
-    - dbsys
+    - interop
 
 - title: "Recovery in CloudDBAppliance’s High-availability Middleware"
   authors: Abreu H, Ferreira L, Coelho F, Alosno A, Pereira J
@@ -258,7 +285,7 @@
   year: 2018
   key: old21
   domains:
-    - dbsys
+    - interop
 
 - title: "Totally Ordered Replication for Massive Scale Key-Value Stores"
   authors: Ribeiro J, Machado N, Maia F, Matos M
@@ -276,9 +303,9 @@
   key: old23
   domains:
     - dbsys
-
   link:
-  url: https://research.spec.org/icpe_proceedings/2017/proceedings/p293.pdf
+    url: https://research.spec.org/icpe_proceedings/2017/proceedings/p293.pdf
+
 - title: "A Practical Framework for Privacy-Preserving NoSQL Databases"
   authors: Macedo R, Paulo J, Pontes R, Portela B, Oliveira T, Matos M, Oliveira R
   where: IEEE International Symposium on Reliable Distributed Systems (SRDS)
@@ -302,6 +329,8 @@
   key: old26
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1145/3019612.3019863
 
 - title: "DDFlasks: Deduplicated Very Large Scale Data Store"
   authors: Maia F, Paulo J, Coelho F, Neves F, Pereira J, Oliveira R
@@ -310,6 +339,8 @@
   key: old27
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1007/978-3-319-59665-5_4
 
 - title: "Towards new data management platforms for a DSO as market enabler - UPGRID Portugal demo"
   authors: Nunes Alonso A, Couto R, Pacheco H, Bessa R, Gouveia C, Seca L, Moreira J, Nunes P, Matos P, Oliveira A
@@ -317,7 +348,7 @@
   year: 2017
   key: old28
   domains:
-    - dbsys
+    - interop
 
 
 - title: "SafeRegions: Performance Evaluation of Multi-party Protocols on HBase"
@@ -335,6 +366,8 @@
   key: old30
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1007/978-3-319-39577-7_6
 
 - title: "Resource usage prediction in distributed key-value datastores"
   authors: Cruz F, Maia F, Matos M, Oliveira R,Paulo J, Vilaça R
@@ -352,7 +385,6 @@
   domains:
     - dbsys
 
-
 - title: Implementing a Linear Algebra Approach to Data Processing
   authors: Pontes R, Matos M, Oliveira J, Pereira J
   where: Grand Timely Topics (Generative and Transformational Techniques) in Software Engineering (GTTSE)
@@ -360,6 +392,8 @@
   key: old33
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1007/978-3-319-60074-1_9
 
 - title : "CumuloNimbo: A Cloud Scalable Multi-tier SQL Database"
   authors: Jimenez-Peris R, Patino-Martinez M, Kemme B, Brondino I, Pereira J, Vilaça R, Cruz F, Oliveira R, Ahmad Y
@@ -368,7 +402,6 @@
   key: old34
   domains:
     - dbsys
-
 
 - title: "DATAFLASKS: epidemic store for massive scale systems"
   authors: Maia F, Matos M, Vilaça R, Pereira J, Oliveira R, Rivière E
@@ -385,6 +418,8 @@
   key: old36
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1109/SRDS.2014.23
 
 - title: On the Support of Versioning in Distributed Key-Value Stores
   authors: Felber P, Pasin M, Rivière E , Schiavoni V, Sutra P, Coelho F, Oliveira, Matos M, Vilaça R
@@ -402,7 +437,6 @@
   domains:
     - dbsys
 
-
 - title: "MeT: workload aware elasticity for NoSQL "
   authors: Cruz F, Maia F, Matos M, Oliveira R, Paulo J, Pereira J, Vilaça R
   where: Proceedings of the 8th ACM European Conference on Computer Systems (EuroSys)
@@ -410,6 +444,8 @@
   key: old39
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1145/2465351.2465370
 
 - title: "Evaluating Cassandra as a Manager of Large File Sets "
   authors: Beernaert L, Matos M, Gomes P, Vilaça R, Oliveira R.
@@ -419,13 +455,15 @@
   domains:
     - dbsys
 
-- title: "An effective scalable SQL engine for NoSQL databases}"
+- title: "An effective scalable SQL engine for NoSQL databases"
   authors: Vilaça R, Cruz F, Pereira J, Oliveira R.
   where: Distributed Applications and Interoperable Systems (DAIS)
   year: 2013
   key: old41
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1007/978-3-642-38541-4_12
 
 - title: "AJITTS: Adaptive Just-In-Time Transaction Scheduling"
   authors: Nunes Alonso A, Oliveira R, Pereira J.
@@ -434,6 +472,8 @@
   key: old42
   domains:
     - dbsys
+  link:
+    url: http://dx.doi.org/10.1007/978-3-642-38541-4_5
 
 - authors: M.Tosic, F. Coelho, B.Nouwt, D.Rua, A.Tomcic, S.Pesic 
   title: "Towards a Cross-domain Semantically Interoperable Ecosystem"
