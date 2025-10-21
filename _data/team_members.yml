@@ -131,14 +131,6 @@
   ldin: 
   number_educ: 0
 
-- name: Luís Silva
-  photo: nophoto.jpg
-  info: MSc Student
-  email: luis.p.silva@inesctec.pt
-  git: 
-  ldin: 
-  number_educ: 0
-
 - name: Rui Braga
   photo: nophoto.jpg
   info: MSc Student
@@ -163,4 +155,8 @@
   ldin: 
   number_educ: 0  
 
+- name: <a href="https://rnlaigner.github.io/">Rodrigo Laigner</a>
+  photo: rodrigo.jpg
+  info: Visiting researcher
+  number_educ: 0
   

@@ -3,10 +3,20 @@
   description: Conflict-free Replicated Data Views.
   highlight: true
 
+- name: MulltetBench
+  repo: 
+  description: MulltetBench is a benchmarking suite designed for to assess edge database systems.
+  highlight: false
+
 - name: TiQuE
   repo: https://github.com/nuno-faria/tique
   description: Transactions in the Query Engine.
   highlight: true
+
+- name: SIF 
+  repo: https://github.com/lf-energy/foundation/blob/main/project_charters/interconnect-sif_charter.pdf
+  description: Semantic Interoperability Framework
+  highlight: false
 
 - name: MRV
   repo: https://github.com/nuno-faria/mrv
@@ -15,17 +25,7 @@
 
 - name: HTAPBench
   repo: https://github.com/faclc4/HTAPBench
-  description: HTAPBench is a benchmarking suite designed for database engines that support hybrid workloads (HTAP) composed of high levels of transactional activity and, at the same time, provide business analytics directly over production data.
-  highlight: false
-
-- name: MulltetBench
-  repo: 
-  description: MulltetBench is a benchmarking suite designed for to assess edge database systems.
-  highlight: false
-
-- name: SIF 
-  repo: https://github.com/lf-energy/foundation/blob/main/project_charters/interconnect-sif_charter.pdf
-  description: Semantic Interoperability Framework
+  description: Benchmarking suite designed for HTAP database engines.
   highlight: false
   
 - name: TPC-W

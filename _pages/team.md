@@ -86,6 +86,8 @@ We are looking for new Postdocs, PhD students and Master/Bachelor students to jo
 
 ---
 ### MSc
+- Pedro Sousa, Distributed transaction optimization, 2025.
+- Luís Silva, Update processing in polystores, 2025.
 - Rui Souto, Query Optimizers Based on Machine Learning Techniques, 2021,  Now at [TalkDesk](https://www.talkdesk.com/)
 - Luis Meruje, Automatic Parameter Tuning Using Reinforcement Learning, 2020
 - Nuno Faria, High performance data processing, 2020

@@ -1,3 +1,12 @@
+- authors: Adão, R., Wu, Z., Zhou, C., Balmau, O., Paulo, J., & Macedo, R. 
+  domains:
+  - dbsys
+  key: awz25
+  link:
+    url: https://doi.org/10.14778/3746405.3746414
+  title: 'Keigo: Co-designing Log-Structured Merge Key-Value Stores with a Non-Volatile, Concurrency-aware Storage Hierarchy'
+  where: Proceedings of the VLDB Endowment
+  year: 2025
 - authors: N. Faria, and J. Pereira
   domains:
   - dbsys
@@ -6,6 +15,15 @@
     url: https://doi.org/10.1145/3709675
   title: 'CRDV: Conflict-free Replicated Data Views'
   where: Proc. ACM Manag. Data (SIGMOD)
+  year: 2025
+- authors: Imperadeiro, João, Alonso, Ana Nunes, and Pereira, José
+  domains:
+  - dbsys
+  key: iap25
+  link:
+    url: https://doi.org/10.1109/DSN-S65789.2025.00067
+  title: 'Rethinking BFT: Leveraging Diverse Software Components with LLMs'
+  where: IEEE/IFIP Intl. Conf. on Dependable Systems and Networks - Disrupt track
   year: 2025
 - authors: P. A. Sousa, N. Faria, J. Pereira, and A. Alonso
   domains:
@@ -27,7 +45,7 @@
   year: 2025
 - title: "When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection"
   authors: Ramos M, Azevedo J, Kingsbury K, Pereira J, Esteves T, Macedo R & Paulo J
-  where: PVLDB
+  where: Proceedings of the VLDB Endowment
   year: 2024
   key: ramos2024amnesia
   domains:
@@ -62,7 +80,7 @@
   authors: N. Faria and J. Pereira and A. Alonso and R. Vilaça and Y. Koning and N. Nes
   title: "TiQuE: Improving the Transactional Performance of Analytical Systems for True Hybrid Workloads"
   year: 2023
-  where: PVLDB
+  where: Proceedings of the VLDB Endowment
   domains:
     - dbsys
   link:
@@ -78,6 +96,13 @@
   link:
     url: http://dx.doi.org/10.1145/3615366.3615424
 
+- authors: M.Tosic, F. Coelho, B.Nouwt, D.Rua, A.Tomcic, S.Pesic 
+  title: "Towards a Cross-domain Semantically Interoperable Ecosystem"
+  where: 15th ACM International Conference on Web Search and Data Mining
+  year: 2022
+  key: SIF
+  domains:
+    - interop
 
 - key: fp23
   authors: N. Faria and J. Pereira
@@ -474,12 +499,4 @@
     - dbsys
   link:
     url: http://dx.doi.org/10.1007/978-3-642-38541-4_5
-
-- authors: M.Tosic, F. Coelho, B.Nouwt, D.Rua, A.Tomcic, S.Pesic 
-  title: "Towards a Cross-domain Semantically Interoperable Ecosystem"
-  where: 15th ACM International Conference on Web Search and Data Mining
-  year: 2022
-  key: SIF
-  domains:
-    - interop
 
