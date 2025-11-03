@@ -1,4 +1,7 @@
 - images:
+  - image: /assets/images/photos/1761748639459.jpg
+    caption: Talk by Nuno Faria at PostgreSQL Conference Europe (2025)
+    date: 2025-10-24
   - image: /assets/images/photos/20240625_sigmod_award.jpeg
     caption: Honorable Mention award at SIGMOD (2025)
     date: 2025-06-26
