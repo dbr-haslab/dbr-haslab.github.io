@@ -65,6 +65,7 @@ We are looking for new Postdocs, PhD students and Master/Bachelor students to jo
  - [Ricardo Vilaça](https://rmpvilaca.github.io/), Now at [Critical Techworks](https://www.criticaltechworks.com/) 
  - Nuno Machado, Now at [Amazon](https://amazon.com/)
  - Rui Gonçalves, Now at [Zalando](https://www.zalando.com/)
+ - [Rodrigo Laigner](https://rnlaigner.github.io/), Now at [DynaTrace](https://www.dynatrace.com/)
 
 ---
 
